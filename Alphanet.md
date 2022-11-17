@@ -11,7 +11,7 @@ We made some improvements and restrictions to achieve better user experience:
 4. The free package can not be subscribed.
 5. Auto-scaling status is limited to “active” or “stop” now.
 6. The chain name is verified when creating a new api key.
-7. Wallet address is added to the sign message when login with wallet.
+7. Wallet address is added to the sign message when login with web3 wallet.
 8. PAYG package can not be puechased on one's own initiative now, can only be subscribed.
 9. PAYG will give the exact number of RUs in the message.
 10. The responding is simplified when calling some registration APIs to avoid sensitive information leak.
